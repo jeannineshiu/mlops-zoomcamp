@@ -1,6 +1,8 @@
 
-data/
+./01-intro/data/
 *.parquet
+
+./01-intro/figures/
 # VSCode settings
 .vscode/
 
