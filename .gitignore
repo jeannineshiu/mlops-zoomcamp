@@ -1,12 +1,18 @@
-
-./01-intro/data/
+# Data
+01-intro/data/
 *.parquet
 
-./01-intro/figures/
+
+
+# Models
+01-intro/models/
 # VSCode settings
 .vscode/
 
-
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
 
 
 # Byte-compiled / optimized / DLL files
